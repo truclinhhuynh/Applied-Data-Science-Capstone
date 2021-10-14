@@ -1,2 +1,2 @@
-# Linh-s-Data-Science-Journey
-# 1st change
+# Applied Data Science Capstone
+# IBM Data Science Certificate
